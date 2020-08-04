@@ -5,31 +5,44 @@
   "parents": [],
   "items": {
     "order": [
+      "Wallpapers",
       "2019",
       "2018"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "Wallpapers": {
+        "name": "Wallpapers",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "Wallpapers"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "ieee students",
+            "ieee planting trees"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "ieee students": {
+              "name": "ieee students",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "Wallpapers",
+                "ieee students"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data/albums/Wallpapers-ieee students.json",
+              "no_sub_album": true
+            },
+            "ieee planting trees": {
+              "name": "ieee planting trees",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "Wallpapers",
+                "ieee planting trees"
+              ],
+              "path": "./_data/albums/Wallpapers-ieee planting trees.json",
               "no_sub_album": true
             }
           }
@@ -74,6 +87,32 @@
                   }
                 }
               }
+            }
+          }
+        }
+      },
+      "2018": {
+        "name": "2018",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2018"
+        ],
+        "items": {
+          "order": [
+            "Hokkaido December"
+          ],
+          "dict": {
+            "Hokkaido December": {
+              "name": "Hokkaido December",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2018",
+                "Hokkaido December"
+              ],
+              "path": "./_data/albums/2018-Hokkaido December.json",
+              "no_sub_album": true
             }
           }
         }

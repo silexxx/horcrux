@@ -1,0 +1,118 @@
+{
+  "order": [
+    "yCVtOEm.jpg",
+    "qL2DR8S.jpg",
+    "lxrA1de.jpg",
+    "kHxyjy7.jpg",
+    "kHxyjy7 (copy).jpg",
+    "hqi8lgd.jpg",
+    "hqi8lgd (copy).jpg",
+    "hGkb2CW.jpg",
+    "eIcBCRH.jpg",
+    "eIcBCRH (copy).jpg",
+    "X3kF3ho.jpg",
+    "RFYyxUq.jpg",
+    "DEVKyrz.jpg",
+    "A4dexVk.jpg"
+  ],
+  "dict": {
+    "yCVtOEm.jpg": {
+      "type": "photo",
+      "width": 1980,
+      "height": 998,
+      "path": "./photos/Wallpapers/yCVtOEm.jpg",
+      "min_path": "./photos/Wallpapers/yCVtOEm.min.jpg"
+    },
+    "qL2DR8S.jpg": {
+      "type": "photo",
+      "width": 2380,
+      "height": 1200,
+      "path": "./photos/Wallpapers/qL2DR8S.jpg",
+      "min_path": "./photos/Wallpapers/qL2DR8S.min.jpg"
+    },
+    "lxrA1de.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 774,
+      "path": "./photos/Wallpapers/lxrA1de.jpg",
+      "min_path": "./photos/Wallpapers/lxrA1de.min.jpg"
+    },
+    "kHxyjy7.jpg": {
+      "type": "photo",
+      "width": 1466,
+      "height": 1200,
+      "path": "./photos/Wallpapers/kHxyjy7.jpg",
+      "min_path": "./photos/Wallpapers/kHxyjy7.min.jpg"
+    },
+    "kHxyjy7 (copy).jpg": {
+      "type": "photo",
+      "width": 1466,
+      "height": 1200,
+      "path": "./photos/Wallpapers/kHxyjy7 (copy).jpg",
+      "min_path": "./photos/Wallpapers/kHxyjy7 (copy).min.jpg"
+    },
+    "hqi8lgd.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 516,
+      "path": "./photos/Wallpapers/hqi8lgd.jpg",
+      "min_path": "./photos/Wallpapers/hqi8lgd.min.jpg"
+    },
+    "hqi8lgd (copy).jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 516,
+      "path": "./photos/Wallpapers/hqi8lgd (copy).jpg",
+      "min_path": "./photos/Wallpapers/hqi8lgd (copy).min.jpg"
+    },
+    "hGkb2CW.jpg": {
+      "type": "photo",
+      "width": 1698,
+      "height": 968,
+      "path": "./photos/Wallpapers/hGkb2CW.jpg",
+      "min_path": "./photos/Wallpapers/hGkb2CW.min.jpg"
+    },
+    "eIcBCRH.jpg": {
+      "type": "photo",
+      "width": 1313,
+      "height": 1200,
+      "path": "./photos/Wallpapers/eIcBCRH.jpg",
+      "min_path": "./photos/Wallpapers/eIcBCRH.min.jpg"
+    },
+    "eIcBCRH (copy).jpg": {
+      "type": "photo",
+      "width": 1313,
+      "height": 1200,
+      "path": "./photos/Wallpapers/eIcBCRH (copy).jpg",
+      "min_path": "./photos/Wallpapers/eIcBCRH (copy).min.jpg"
+    },
+    "X3kF3ho.jpg": {
+      "type": "photo",
+      "width": 1398,
+      "height": 1200,
+      "path": "./photos/Wallpapers/X3kF3ho.jpg",
+      "min_path": "./photos/Wallpapers/X3kF3ho.min.jpg"
+    },
+    "RFYyxUq.jpg": {
+      "type": "photo",
+      "width": 1535,
+      "height": 806,
+      "path": "./photos/Wallpapers/RFYyxUq.jpg",
+      "min_path": "./photos/Wallpapers/RFYyxUq.min.jpg"
+    },
+    "DEVKyrz.jpg": {
+      "type": "photo",
+      "width": 1980,
+      "height": 998,
+      "path": "./photos/Wallpapers/DEVKyrz.jpg",
+      "min_path": "./photos/Wallpapers/DEVKyrz.min.jpg"
+    },
+    "A4dexVk.jpg": {
+      "type": "photo",
+      "width": 1550,
+      "height": 1200,
+      "path": "./photos/Wallpapers/A4dexVk.jpg",
+      "min_path": "./photos/Wallpapers/A4dexVk.min.jpg"
+    }
+  }
+}
