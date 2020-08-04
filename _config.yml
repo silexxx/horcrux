@@ -29,7 +29,9 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: IEEE
+instagram: ieee_git_official
+
+
 
 sass:
   sass_dir: _sass
