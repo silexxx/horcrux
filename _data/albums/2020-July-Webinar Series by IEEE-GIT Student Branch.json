@@ -1,0 +1,46 @@
+{
+  "order": [
+    "webinarphoto.jpg",
+    "WhatsApp Image 2020-07-19 at 13.08.23.jpg",
+    "IMG-20200620-WA0004.jpg",
+    "IMG-20200620-WA0001.jpg",
+    "IMG-20200617-WA0002.jpg"
+  ],
+  "dict": {
+    "webinarphoto.jpg": {
+      "type": "photo",
+      "width": 1090,
+      "height": 835,
+      "path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/webinarphoto.jpg",
+      "min_path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/webinarphoto.min.jpg"
+    },
+    "WhatsApp Image 2020-07-19 at 13.08.23.jpg": {
+      "type": "photo",
+      "width": 1024,
+      "height": 1280,
+      "path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/WhatsApp Image 2020-07-19 at 13.08.23.jpg",
+      "min_path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/WhatsApp Image 2020-07-19 at 13.08.23.min.jpg"
+    },
+    "IMG-20200620-WA0004.jpg": {
+      "type": "photo",
+      "width": 590,
+      "height": 1280,
+      "path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200620-WA0004.jpg",
+      "min_path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200620-WA0004.min.jpg"
+    },
+    "IMG-20200620-WA0001.jpg": {
+      "type": "photo",
+      "width": 720,
+      "height": 1280,
+      "path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200620-WA0001.jpg",
+      "min_path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200620-WA0001.min.jpg"
+    },
+    "IMG-20200617-WA0002.jpg": {
+      "type": "photo",
+      "width": 1080,
+      "height": 613,
+      "path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200617-WA0002.jpg",
+      "min_path": "./photos/2020/July/Webinar Series by IEEE-GIT Student Branch/IMG-20200617-WA0002.min.jpg"
+    }
+  }
+}

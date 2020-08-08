@@ -1,0 +1,22 @@
+{
+  "order": [
+    "photocollage.jpg",
+    "IMG_20200410_172802.jpg"
+  ],
+  "dict": {
+    "photocollage.jpg": {
+      "type": "photo",
+      "width": 2200,
+      "height": 2200,
+      "path": "./photos/2019/Octobar/photocollage.jpg",
+      "min_path": "./photos/2019/Octobar/photocollage.min.jpg"
+    },
+    "IMG_20200410_172802.jpg": {
+      "type": "photo",
+      "width": 1222,
+      "height": 1574,
+      "path": "./photos/2019/Octobar/IMG_20200410_172802.jpg",
+      "min_path": "./photos/2019/Octobar/IMG_20200410_172802.min.jpg"
+    }
+  }
+}

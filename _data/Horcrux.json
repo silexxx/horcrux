@@ -5,49 +5,11 @@
   "parents": [],
   "items": {
     "order": [
-      "Wallpapers",
       "2019",
+      "2020",
       "2018"
     ],
     "dict": {
-      "Wallpapers": {
-        "name": "Wallpapers",
-        "type": "album",
-        "root": 1,
-        "parents": [
-          "Wallpapers"
-        ],
-        "items": {
-          "order": [
-            "ieee students",
-            "ieee planting trees"
-          ],
-          "dict": {
-            "ieee students": {
-              "name": "ieee students",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Wallpapers",
-                "ieee students"
-              ],
-              "path": "./_data/albums/Wallpapers-ieee students.json",
-              "no_sub_album": true
-            },
-            "ieee planting trees": {
-              "name": "ieee planting trees",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "Wallpapers",
-                "ieee planting trees"
-              ],
-              "path": "./_data/albums/Wallpapers-ieee planting trees.json",
-              "no_sub_album": true
-            }
-          }
-        }
-      },
       "2019": {
         "name": "2019",
         "type": "album",
@@ -57,9 +19,50 @@
         ],
         "items": {
           "order": [
+            "September",
+            "Octobar",
             "August"
           ],
           "dict": {
+            "September": {
+              "name": "September",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "September"
+              ],
+              "items": {
+                "order": [
+                  "IEEE-GIT Student Branch Delegation at AISYWC'19 at CMRIT Hyderabad on 28th 29th and 30th September'2019"
+                ],
+                "dict": {
+                  "IEEE-GIT Student Branch Delegation at AISYWC'19 at CMRIT Hyderabad on 28th 29th and 30th September'2019": {
+                    "name": "IEEE-GIT Student Branch Delegation at AISYWC'19 at CMRIT Hyderabad on 28th 29th and 30th September'2019",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "September",
+                      "IEEE-GIT Student Branch Delegation at AISYWC'19 at CMRIT Hyderabad on 28th 29th and 30th September'2019"
+                    ],
+                    "path": "./_data/albums/2019-September-IEEE-GIT Student Branch Delegation at AISYWC'19 at CMRIT Hyderabad on 28th 29th and 30th September'2019.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "Octobar": {
+              "name": "Octobar",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "Octobar"
+              ],
+              "path": "./_data/albums/2019-Octobar.json",
+              "no_sub_album": true
+            },
             "August": {
               "name": "August",
               "type": "album",
@@ -83,6 +86,78 @@
                       "Street"
                     ],
                     "path": "./_data/albums/2019-August-Street.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2020": {
+        "name": "2020",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2020"
+        ],
+        "items": {
+          "order": [
+            "July",
+            "January"
+          ],
+          "dict": {
+            "July": {
+              "name": "July",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2020",
+                "July"
+              ],
+              "items": {
+                "order": [
+                  "Webinar Series by IEEE-GIT Student Branch"
+                ],
+                "dict": {
+                  "Webinar Series by IEEE-GIT Student Branch": {
+                    "name": "Webinar Series by IEEE-GIT Student Branch",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2020",
+                      "July",
+                      "Webinar Series by IEEE-GIT Student Branch"
+                    ],
+                    "path": "./_data/albums/2020-July-Webinar Series by IEEE-GIT Student Branch.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "January": {
+              "name": "January",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2020",
+                "January"
+              ],
+              "items": {
+                "order": [
+                  "ieee planting trees"
+                ],
+                "dict": {
+                  "ieee planting trees": {
+                    "name": "ieee planting trees",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2020",
+                      "January",
+                      "ieee planting trees"
+                    ],
+                    "path": "./_data/albums/2020-January-ieee planting trees.json",
                     "no_sub_album": true
                   }
                 }

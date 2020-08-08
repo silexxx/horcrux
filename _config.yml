@@ -1,4 +1,6 @@
-name: IEEE
+name: ieee_git_official
+
+
 
 frame_padding: 10px
 
@@ -15,12 +17,12 @@ process:
   keep_order: True
   album:
     sort_by_time: True # False: sort by filename
-    order_by: create # access, modify
-    reverse: True
+    order_by: create # access, modify,create
+    reverse: False
   photo:
-    sort_by_time: False
+    sort_by_time: True
     order_by: modify
-    reverse: True
+    reverse: False
     min_width: 600
     watermark:
       thumbnail: False
@@ -29,7 +31,9 @@ process:
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 
-instagram: IEEE
+instagram: ieee_git_official
+
+
 
 sass:
   sass_dir: _sass
